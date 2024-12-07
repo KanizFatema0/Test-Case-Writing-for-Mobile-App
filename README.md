@@ -35,3 +35,6 @@ Provided a summary of the test cases, their execution results, and overall findi
 The testing process validated the functionality of the OpenCart Demo registration page and highlighted potential improvements. The defects were documented for communication with the development team to enhance the platform's performance and user experience.
 
 This project demonstrates practical manual testing skills and the ability to identify and report defects effectively.
+
+# For better view of this Project follow this link
+**https://docs.google.com/spreadsheets/d/1DQ4HRa3mqkrz6dfiiGs56xFm71-u2KS7/edit?usp=drive_link&ouid=108483678813284092302&rtpof=true&sd=true**
