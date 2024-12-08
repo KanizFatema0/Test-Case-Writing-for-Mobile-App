@@ -24,7 +24,7 @@ This project focuses on testing the Registration feature of the OpenCart Demo We
 # Project Components
 Test Cases:
 
-Created and executed 7-8 test cases, covering positive and negative scenarios.
+Created and executed 21 test cases, covering positive and negative scenarios.
 Identified both passing and failing cases to ensure a robust analysis of the system.
 
 Test Report:
